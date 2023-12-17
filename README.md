@@ -35,7 +35,7 @@ CREATE TABLE Books (
 );
 ```
 ### Схема базы данных:
-![image](https://github.com/Vantwozz/lab2_Barovik/assets/95244485/fc06c8c4-1a10-4e99-8111-66e3f231ad1d)
+![image](https://github.com/Vantwozz/lab2_Barovik/assets/95244485/69d1ce77-8fab-47d8-938a-e6147d824b9c)
 
 ### Пример заполнения данными:
 ```
