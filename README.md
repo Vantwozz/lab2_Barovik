@@ -36,4 +36,18 @@ CREATE TABLE Books (
 ```
 ### Схема базы данных:
 ![image](https://github.com/Vantwozz/lab2_Barovik/assets/95244485/68320818-d565-424a-a41e-2574a334b174)
+
+### Пример заполнения данными:
+```
+INSERT INTO Authors (author_name, birth_year, nationality) VALUES
+('Александр Пушкин', 1799, 'Россия'),
+('Джордж Оруэлл', 1903, 'Великобритания'),
+('Жюль Верн', 1828, 'Франция');
+```
+```
+INSERT INTO Books (title, publication_year, author_id) VALUES
+('Евгений Онегин', 1833, 1),
+('1984', 1949, 2),
+('Вокруг света за 80 дней', 1873, 3);
+```
   
